@@ -1,0 +1,6 @@
+GRUNTFILE.js
+
+- Configure our tasks and tells our plugins where to find certain files
+- Load plugins into the grunt file (e.g uglify)
+- Register tasks which needs to be run
+
