@@ -4,3 +4,19 @@ GRUNTFILE.js
 - Load plugins into the grunt file (e.g uglify)
 - Register tasks which needs to be run
 
+To use plugin
+- visit https://gruntjs.com/plugins for various plugins
+- npm install <plugin> --save-dev
+- Copy the plugin name and put it in gruntfile.js 
+  NOTE: For plugin test the project files CSS and js are taken from https://github.com/iamshaunjp/grunt-playlist
+
+Concatinte 3 js files into 1 file
+- Define the source file and destination path where concatenated file saved in grunt.initConfig
+- run the grunt command in terminal : grunt concat 
+- Same can be done for CSS
+
+What if I want to run one concatination at a time?
+- Create task runner
+- Run that task only
+
+  
