@@ -17,7 +17,8 @@ Concatinte 3 js files into 1 file
 
 What if I want to run one concatination at a time?
 - Create task runner
-- Run that task only
+- Run that task only 
+- To use verbose use -v flag: grunt concat-js -v
 
 Instructions:
 - If I just want to run concat for js and compresse it 
