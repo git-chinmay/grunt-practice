@@ -19,4 +19,6 @@ Grunt performs some repetative task like
 - Run in terminal: grunt <task name> (Refer `images` section for example)
 
 ## Reference
+- Gruntpage: https://gruntjs.com/
+- Gruntplugins: https://gruntjs.com/plugins
 - Youtube link: https://www.youtube.com/watch?v=KAD-l__vek4&list=PL4cUxeGkcC9j85fkVyCzCMJDfteLtrl_y&index=1

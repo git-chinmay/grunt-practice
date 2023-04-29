@@ -1,7 +1,7 @@
 GRUNTFILE.js
 
 - Configure our tasks and tells our plugins where to find certain files
-- Load plugins into the grunt file (e.g uglify)
+- Load plugins into the grunt file (e.g uglify) - Uglify compressed a js file into small by shortening the commands
 - Register tasks which needs to be run
 
 To use plugin
@@ -19,4 +19,7 @@ What if I want to run one concatination at a time?
 - Create task runner
 - Run that task only
 
-  
+Instructions:
+- If I just want to run concat for js and compresse it 
+  - Run js task runner: grunt concat-js 
+  - Run uglify:         grunt uglify
